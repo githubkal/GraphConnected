@@ -1,7 +1,6 @@
-# GraphConnected
-
-## Reads if a graph is connected or not
-
+GraphConnected
+Reads if a graph is connected or not
+=====================================
 5
 a b
 b c
