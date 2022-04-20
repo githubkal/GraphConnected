@@ -1,4 +1,4 @@
-GraphConnected
+#GraphConnected
 Reads if a graph is connected or not
 =====================================
 5
